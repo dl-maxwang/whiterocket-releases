@@ -9,3 +9,7 @@ Public APK downloads for WhiteRocket.
 - Checksum file: [SHA256SUMS.txt](https://github.com/dl-maxwang/whiterocket-releases/raw/main/SHA256SUMS.txt)
 
 This is a release-signed beta build for testing.
+
+## Privacy
+
+- [Privacy Policy](https://github.com/dl-maxwang/whiterocket-releases/blob/main/PRIVACY_POLICY.md)
